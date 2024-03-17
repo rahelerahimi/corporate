@@ -1,0 +1,357 @@
+@media screen and (min-width: 454px) {
+  .sidebar-post ul li p {
+    margin-top: 0.6em;
+  }
+
+  .homepage-04 .Customers-comments p {
+    font-size: 1em;
+  }
+}
+/************************************************/
+@media screen and (min-width: 576px) {
+}
+/************************************************/
+@media screen and (min-width: 577px) {
+  .carousel-caption h5 {
+    font-size: 2em;
+  }
+  .services-top {
+    margin-top: -6.5em;
+  }
+  .services-caption figure {
+    display: block;
+  }
+  .rejister-content {
+    width: 65%;
+  }
+  .comingsoon-content .title-comingsoon {
+    font-size: 2.7em;
+  }
+
+  .comingsoon-content .text-comingsoon {
+    font-size: 1em;
+    width: 100%;
+  }
+
+  .comingsoon-content div {
+    margin: 1em;
+  }
+  .basket table tr {
+    text-align: right;
+  }
+
+  .basket table td:nth-of-type(6) {
+    padding-left: 0;
+  }
+  .bill table tr td {
+    padding-right: 1.5em;
+    font-size: 1em;
+  }
+  .homepage-03 .Customers-logo {
+    padding-right: 5.5em;
+  }
+}
+/************************************************/
+@media screen and (min-width: 768px) {
+  .title {
+    font-size: 1.6em;
+  }
+  .carousel-head img {
+    height: 450px;
+  }
+  .carousel-caption {
+    top: 25%;
+  }
+
+  .carousel-caption p {
+    width: 75%;
+    font-size: 1em;
+  }
+  .banner-top .benertop-text p:nth-of-type(1) {
+    font-size: 2.2em;
+  }
+  .services-top {
+    margin-top: -4em;
+  }
+  .services-top .card {
+    border-radius: 0;
+  }
+  .services-top .servicesright-radius {
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+  }
+  .services-top .servicesleft-radius {
+    border-top-left-radius: 1em;
+    border-bottom-left-radius: 1em;
+  }
+  .services-top .card-title {
+    font-size: 1em;
+  }
+  .services-top .card-text {
+    font-size: 0.9em;
+  }
+  .Counseling .icon-email {
+    display: block;
+  }
+  .title2-left {
+    margin-top: 0;
+  }
+  .date-blog {
+    font-size: 1em;
+  }
+  .title-blog {
+    font-size: 1em;
+  }
+  .blog .swiper-slide .caption-blog {
+    font-size: 1em;
+  }
+  .blog .user-blog {
+    font-size: 1em;
+  }
+  .services-caption .title-Customers {
+    margin-left: 3em;
+    font-size: 1.2em;
+  }
+  .banner-service P:nth-of-type(2) {
+    font-size: 2em;
+  }
+  .banner-service P:nth-of-type(3) {
+    width: 50%;
+  }
+  .services-caption figure {
+    margin-right: 1em;
+  }
+  .rejister-content {
+    width: 50%;
+  }
+  .comingsoon-content .title-comingsoon {
+    font-size: 3em;
+  }
+  .not-found img {
+    width: 50%;
+  }
+  .blog-list .card {
+    font-size: 1em !important;
+  }
+  .sidebar {
+    padding-left: 2em;
+  }
+
+  .sidebar-post ul li p {
+    font-size: 1em;
+    margin-top: 0.2em;
+  }
+  .product-detail .carousel img {
+    height: 450px;
+  }
+  .homepage-04 .services-head {
+    padding: 4em 2em;
+  }
+}
+/************************************************/
+@media screen and (min-width: 992px) {
+  .header-top {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .logo {
+    margin-left: -4em !important;
+  }
+  .nav-menu ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .nav-menu li {
+    margin-left: 0.2em;
+  }
+  .form-nav-desk {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .nav-response {
+    margin-top: 3.6em;
+    margin-bottom: 0;
+    display: none;
+  }
+
+  .carousel-head {
+    margin-top: 0;
+  }
+  .carousel-head img {
+    height: 600px;
+  }
+  .carousel-caption {
+    top: 30%;
+  }
+  .Counseling-title {
+    font-size: 1.5em;
+  }
+
+  .services-top {
+    margin-top: -7em;
+  }
+  .services-top .card-title {
+    font-size: 1.3em;
+  }
+  .services-top .card-text {
+    font-size: 1em;
+  }
+  .parent-services {
+    padding: 3em 3em 1em 3em;
+  }
+  .footer .list-footer-right ul,
+  .footer .list-footer-left ul {
+    width: auto;
+  }
+  .banner-top figure {
+    margin-top: 0;
+  }
+  .banner-top figure img {
+    width: 100%;
+    height: 400px;
+    transform: translateX(0);
+  }
+  .banner-top .benertop-text p:nth-of-type(1) {
+    margin-top: 0;
+  }
+  .banner-service P:nth-of-type(2) {
+    font-size: 1.7em;
+  }
+  .privacy h3 {
+    font-size: 1.5em;
+  }
+  .myaccount-tab .title-myaccount {
+    font-size: 1.5em;
+  }
+  .error-page nav {
+    z-index: 2;
+  }
+  .about-1 p:nth-of-type(2) {
+    padding-left: 1em;
+  }
+
+  .about-box .aboutbox-text p:nth-of-type(1) {
+    font-size: 1.5em;
+  }
+  .homepage-02 .about figure {
+    margin-right: 2em;
+  }
+  .homepage-03 .nav-menu {
+    border-radius: 30px;
+    width: 95%;
+    margin: 0 auto;
+    height: 55px;
+    background-color: #fbab18;
+    position: relative;
+    z-index: 3;
+  }
+
+  .homepage-03 .nav-menu ul {
+    margin-left: -4.2em !important;
+    -webkit-transform: translateX(4em) !important;
+    -ms-transform: translateX(4em) !important;
+    transform: translateX(4em) !important;
+  }
+
+  .homepage-03 .nav-menu li a {
+    margin-left: -0.1em;
+  }
+
+  .homepage-03 .nav-menu .thubmenu .dropdown1 {
+    right: 50px !important;
+  }
+
+  .homepage-03 .nav-menu .thubmenu .dropdown2 {
+    right: 13em !important;
+  }
+
+  .homepage-03 .services-2 figure {
+    margin-right: 1.1em;
+  }
+  .homepage-03 .carousel-head,
+  .homepage-04 .carousel-head {
+    margin-top: -1.5em;
+  }
+  .homepage-04 .nav-menu {
+    border-radius: 30px;
+    width: 95%;
+    margin: 0 auto;
+    height: 55px;
+    background-color: #fbab18;
+    position: relative;
+    z-index: 3;
+  }
+
+  .homepage-04 .nav-menu ul {
+    margin-left: -4.2em !important;
+    -webkit-transform: translateX(4em) !important;
+    -ms-transform: translateX(4em) !important;
+    transform: translateX(4em) !important;
+  }
+
+  .homepage-04 .nav-menu li a {
+    margin-left: -0.1em;
+  }
+
+  .homepage-04 .nav-menu .thubmenu .dropdown1 {
+    right: 50px !important;
+  }
+
+  .homepage-04 .nav-menu .thubmenu .dropdown2 {
+    right: 13em !important;
+  }
+
+  .homepage-04 .services-2 figure {
+    margin-right: 1.3em;
+  }
+}
+/************************************************/
+@media screen and (min-width: 1200px) {
+  .nav-menu ul {
+    margin-left: 8em !important;
+  }
+  .about-section img {
+    display: block;
+  }
+  .footer .list-footer-right {
+    margin-right: 4.5em;
+  }
+  .footer .list-footer-left {
+    margin-right: 1.7em;
+  }
+  .describe-project {
+    padding-left: 1.5em;
+  }
+  .services-caption figure {
+    margin-right: 2em;
+  }
+
+  .callus-section .callus-caption {
+    padding-left: 2em;
+  }
+
+  .callus-section ul {
+    -webkit-transform: translateX(2.3em);
+    -ms-transform: translateX(2.3em);
+    transform: translateX(2.3em);
+  }
+  .homepage-03 .nav-menu ul {
+    margin-left: 8em !important;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  .homepage-03 .Customers-logo {
+    padding-right: 0;
+  }
+  .homepage-04 .nav-menu ul {
+    margin-left: 8em !important;
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
